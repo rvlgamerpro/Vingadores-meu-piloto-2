@@ -20,7 +20,8 @@ jobs:
 
     - name: Setup Android SDK
       uses: android-actions/setup-android@v3
-      use-preinstalled-sdk: false
+      with:
+           use-preinstalled-sdk: false
 
     - name: Setup Gradle
       uses: gradle/actions/setup-gradle@v4
