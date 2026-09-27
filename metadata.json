@@ -1,0 +1,6 @@
+{
+  "name": "RV Meu Copiloto",
+  "description": "Copiloto inteligente para motoristas de Uber, 99 e inDrive com semáforo de corridas, leitura de tela por acessibilidade e cálculo de lucro real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
